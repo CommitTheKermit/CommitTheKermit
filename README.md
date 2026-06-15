@@ -1,25 +1,23 @@
 <!--
-  GitHub 프로필 README 초안 v2 (CommitTheKermit/CommitTheKermit)
-  - 참고: https://github.com/l2hyunwoo (이력서형 구조)
-  - 한국어 / for-the-badge 배지 / 통계·하단 위젯 없음
-  - 포함 섹션: 헤더 · Me?(소셜) · Skills · Careers · 발표·커뮤니티 활동 · 대표 프로젝트
-  - ⬇️ [채워주세요] = 우정현 님만 아는 정보. 알려주시면 채웁니다.
+  GitHub 프로필 README 초안 v3 (CommitTheKermit/CommitTheKermit)
+  - 참고: https://github.com/l2hyunwoo (이력서형)
+  - 한국어 / for-the-badge 배지 / 통계·하단 위젯 없음 / 학력·어학 미포함(포폴 전용)
+  - 출처: 노션 "포트폴리오 - 우정현"
+  - ⬇️ [확인] = 아직 미확정. 우테코 기수·기간, 네모반듯 역할, 노션 공개 링크
 -->
 
 <h1 align="center">👋 우정현 (Woo Jeong-Hyun)</h1>
 
 <p align="center">
-  <!-- [채워주세요] 실제 링크로 교체. 안 쓰는 줄은 삭제하세요. -->
-  <a href="[블로그 URL]"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <a href="[링크드인 URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="[노션 URL]"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="mailto:[이메일]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://ao3921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <!-- [확인] 아래 노션 링크가 '공개(Publish)' 상태여야 외부에서 열립니다 -->
+  <a href="https://www.notion.so/966d3c0be27744d6ab921759b07b13c1"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="mailto:commit3921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## Me?
 
-> [채워주세요: 한 줄 소개]
-> 예) Android(Kotlin/Compose)와 AI 에이전트 도구를 만드는 개발자입니다. 직접 쓰는 도구를 직접 만듭니다.
+> 작은 것에서 큰 차이를 만든다고 믿으며, 매 순간 더 나은 방법을 고민하는 개발자 우정현입니다.
 
 ## Skills
 
@@ -67,18 +65,19 @@
 
 ## Careers
 
-<!-- [채워주세요] l2hyunwoo 형식: 기간 ~ : 회사 / 팀 / 역할. 신입/경력 전환이라 없으면 이 섹션째 삭제 -->
-- [YYYY.MM] ~ [YYYY.MM] : **[회사명]**
-  - [팀/직무] - [한 일 요약]
-
-## 발표 · 커뮤니티 활동
-
-<!-- [채워주세요] 발표/동아리/스터디 리딩 등. 연도별로 묶어도 좋음 -->
-- [YYYY.MM] [행사/모임명] - [발표 제목 또는 역할] [(링크)]
+- **우아한테크코스** [확인: 기수/기간, 예: 8기 2026.02 ~ ]
+  - 교육 중
+- **네모반듯** : 2025.09 ~ 2026.02
+  - [확인: 직무/한 일 한 줄]
+- **주식회사 헤스티아 (뉴지니)** : 2024.07 ~ 2025.08
+  - Flutter 앱 개발·버전관리·유지보수 / 컨설팅 앱 17개·관리자·인트라넷 웹앱 / 우수사원 상
+- **주식회사 비드톡톡 (뉴지니)** : 2024.01 ~ 2024.07
+  - 비드톡톡 앱 신규 개발, MVVM·Provider 패턴 도입 및 리팩토링
+- **모바일앱개발협동조합** : 2023.09 ~ 2023.12 (취업연계 근로장학)
+  - 아이케어 앱 신규 개발, 플레이스토어·앱스토어 출시
 
 ## 대표 프로젝트
 
-<!-- 스타 수/설명 기준으로 골라둠. 교체·추가하세요. -->
 - **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code 개인 스킬·슬래시 커맨드 모음. 반복 작업을 워크플로로 정형화 `Python`
 - **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표·합의해 답하는 협업 도구 `TypeScript`
 - **[socratic-learn-web](https://github.com/CommitTheKermit/socratic-learn-web)** - 소크라테스식 점진 학습 도우미 웹 서비스 `Kotlin · Ktor · CMP`
