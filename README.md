@@ -1,33 +1,25 @@
-<!--
-  GitHub 프로필 README 초안 v3 (CommitTheKermit/CommitTheKermit)
-  - 참고: https://github.com/l2hyunwoo (이력서형)
-  - 한국어 / for-the-badge 배지 / 통계·하단 위젯 없음 / 학력·어학 미포함(포폴 전용)
-  - 출처: 노션 "포트폴리오 - 우정현"
-  - ⬇️ [확인] = 아직 미확정. 우테코 기수·기간, 네모반듯 역할, 노션 공개 링크
--->
-
 <h1 align="center">👋 우정현 (Woo Jeong-Hyun)</h1>
 
 <p align="center">
   <a href="https://ao3921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <!-- [확인] 아래 노션 링크가 '공개(Publish)' 상태여야 외부에서 열립니다 -->
   <a href="https://www.notion.so/966d3c0be27744d6ab921759b07b13c1"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="mailto:commit3921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## Me?
 
-> 작은 것에서 큰 차이를 만든다고 믿으며, 매 순간 더 나은 방법을 고민하는 개발자 우정현입니다.
+> 작은 것에서 큰 차이를 만든다고 믿는 매 순간 더 나은 방법을 고민하는 개발자 우정현입니다.
 
 ## Skills
 
 **Mobile**
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 **Backend**
@@ -36,7 +28,6 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 **Frontend**
@@ -59,8 +50,7 @@
 
 <p>
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ## Careers
@@ -80,7 +70,7 @@
 
 ## 대표 프로젝트
 
-- **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code 개인 스킬·슬래시 커맨드 모음. 반복 작업을 워크플로로 정형화 `Python`
-- **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표·합의해 답하는 협업 도구 `TypeScript`
-- **[socratic-learn-web](https://github.com/CommitTheKermit/socratic-learn-web)** - 소크라테스식 점진 학습 도우미 웹 서비스 `Kotlin · Ktor · CMP`
-- **[token-notifier](https://github.com/CommitTheKermit/token-notifier)** - macOS 메뉴바에 Claude Code/Codex CLI 토큰 사용량을 표시하는 데스크톱 앱 `Rust · Tauri`
+- **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code 개인 스킬·슬래시 커맨드 모음. 반복 작업을 워크플로로 정형화 `Python, Claude`
+- **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표·합의해 답하는 협업 도구 `TypeScript, Discord`
+- **[socratic-learn-web](https://github.com/CommitTheKermit/socratic-learn-web)** - 소크라테스식 점진 학습 도우미 웹 서비스 `React, Firebase`
+- **[token-notifier](https://github.com/CommitTheKermit/token-notifier)** - macOS 메뉴바에 Claude Code/Codex CLI 토큰 사용량을 표시하는 데스크톱 앱 `Rust, Tauri`
