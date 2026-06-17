@@ -8,7 +8,7 @@
 
 ## Me?
 
-> 작은 것에서 큰 차이를 만든다고 믿는 매 순간 더 나은 방법을 고민하는 개발자 우정현입니다.
+> 불편함을 가만 두지 않는 개발자, 우정현입니다.
 
 ## Skills
 
@@ -68,7 +68,7 @@
 - **모바일앱개발협동조합** : 2023.09 ~ 2023.12 (취업연계 근로장학)
   - 아이 모니터링 앱 - 아이케어 앱 신규 개발
 
-## 대표 프로젝트
+## 최근 프로젝트
 
 - **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code 개인 스킬·슬래시 커맨드 모음. 반복 작업을 워크플로로 정형화 `Python, Claude`
 - **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표·합의해 답하는 협업 도구 `TypeScript, Discord`
