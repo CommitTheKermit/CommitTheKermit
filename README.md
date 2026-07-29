@@ -6,10 +6,6 @@
   <a href="mailto:commit3921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-## Me?
-
-> 불편함을 가만 두지 않는 개발자, 우정현입니다.
-
 ## Skills
 
 **Mobile**
