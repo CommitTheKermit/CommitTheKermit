@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ao3921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/966d3c0be27744d6ab921759b07b13c1"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://committhekermit.github.io/CommitTheKermit/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-000000?style=flat-square&logo=files&logoColor=white"/></a>
   <a href="mailto:commit3921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
