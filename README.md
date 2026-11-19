@@ -33,8 +33,3 @@
   - 전자입찰 공고 탐색과 AI 분석을 제공하는 앱을 Flutter로 개발, 양대 스토어 출시
 - **모바일앱개발협동조합** : 2023.09 ~ 2023.12 (취업연계 근로장학)
   - 아이 모니터링 앱 - 아이케어 앱 신규 개발
-
-## 그 밖의 프로젝트
-
-- **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표, 합의해 답하는 협업 도구 `TypeScript, Discord`
-- **[token-notifier](https://github.com/CommitTheKermit/token-notifier)** - macOS 메뉴바에 Claude Code, Codex CLI 토큰 사용량을 표시하는 데스크톱 앱 `Rust, Tauri`
