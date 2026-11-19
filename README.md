@@ -7,24 +7,33 @@
   <a href="mailto:commit3921@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
+> **앱 개발자인데, 앱부터 만들지 않습니다.**
+> 사용자의 문제를 먼저 생각하고, 실험, 컨시어지, 프로토타입으로 반응을 먼저 보고, 그 뒤에 기술을 깊게 다듬으려 합니다.
+> Flutter 앱을 2년 2개월간 출시, 운영하며 모바일을 혼자 맡았고, 지금은 Kotlin, Compose로 넓히고 있습니다.
+
+## 대표 프로젝트
+
+- **[모드레드](https://modred.ao3921.com)** - 4개 게임에 하루 평균 431개씩 올라오는 새 모드 중 볼 만한 것만 AI로 골라 근거와 함께 매일 웹, 메일로 소개하는 서비스. 16일간 방문자 58.8%가 모드 다운로드 페이지로 이동 `Next.js, Supabase, Claude API`
+- **[책췍](https://github.com/woowacourse-teams/2026-chaekchaek)** - 읽은 책의 감상을 나누는 앱. 우아한테크코스 5명 팀에서 앱 전체를 맡고, 네 번의 실험과 컨시어지로 추천 수요를 확인. Android, iOS 출시 `Kotlin Multiplatform, Compose Multiplatform`
+- **[소크라틱 런](https://github.com/CommitTheKermit/socratic-learn)** ([서비스](https://socratic-learn-web.web.app)) - 정답을 바로 설명하지 않고 확인 질문에 답하며 배우는 AI 학습 웹 서비스. 해커톤 팀 개발 후 개인 운영 `React, Firebase, Claude API`
+- **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code와 Codex가 세션마다 같은 절차로 일하도록 만든 스킬과 훅 모음 `Python, Claude Code`
+
 ## Careers
 
-- **우아한테크코스 안드로이드 8기** : 2026.02 ~
-  - 교육 중
-- **네모반듯** : 2025.09 ~ 2026.02
-  - 쇼핑몰 제휴 플랫폼 앱 개발
-  - 모바일 개발 / 백엔드 개발 / DB / CI / CD / 유지보수
+- **우아한테크코스 Android 8기** : 2026.02 ~
+  - 책췍 팀 프로젝트에서 앱 담당, 사용자 인터뷰와 실험 설계
+- **주식회사 네모반듯 (툭)** : 2025.09 ~ 2026.02
+  - 여러 쇼핑몰을 연결하고 구매 금액 일부를 환급하는 쇼핑 앱
+  - 외주 개발 앱을 인수해 6개월간 앱, 서버, 관리자 웹, DB, Kubernetes 배포까지 1인 운영
 - **주식회사 헤스티아 (뉴지니)** : 2024.07 ~ 2025.08
-  - 전자입찰 컨설팅 각 고객사에 대한 17개 앱 개발 및 배포, 유지보수
-  - 사내 관리자/인트라넷앱을 개발
+  - Kotlin, XML 기반 Android 앱을 Flutter로 포팅해 iOS 지원, 협력사 브랜드 앱 16개 배포와 심사 운영
+  - 사내 관리자, 인트라넷 앱을 하나로 통합
 - **주식회사 비드톡톡 (뉴지니)** : 2024.01 ~ 2024.07
-  - 전자입찰 플랫폼 앱 - 비드톡톡 개발 및 유지보수
+  - 전자입찰 공고 탐색과 AI 분석을 제공하는 앱을 Flutter로 개발, 양대 스토어 출시
 - **모바일앱개발협동조합** : 2023.09 ~ 2023.12 (취업연계 근로장학)
   - 아이 모니터링 앱 - 아이케어 앱 신규 개발
 
-## 최근 프로젝트
+## 그 밖의 프로젝트
 
-- **[ao-skills](https://github.com/CommitTheKermit/ao-skills)** - Claude Code 개인 스킬·슬래시 커맨드 모음. 반복 작업을 워크플로로 정형화 `Python, Claude`
-- **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표·합의해 답하는 협업 도구 `TypeScript, Discord`
-- **[socratic-learn-web](https://github.com/CommitTheKermit/socratic-learn-web)** - 소크라테스식 점진 학습 도우미 웹 서비스 `React, Firebase`
-- **[token-notifier](https://github.com/CommitTheKermit/token-notifier)** - macOS 메뉴바에 Claude Code/Codex CLI 토큰 사용량을 표시하는 데스크톱 앱 `Rust, Tauri`
+- **[claude-council](https://github.com/CommitTheKermit/claude-council)** - 여러 사람이 하나의 Claude Code 세션 질문에 Discord에서 투표, 합의해 답하는 협업 도구 `TypeScript, Discord`
+- **[token-notifier](https://github.com/CommitTheKermit/token-notifier)** - macOS 메뉴바에 Claude Code, Codex CLI 토큰 사용량을 표시하는 데스크톱 앱 `Rust, Tauri`
