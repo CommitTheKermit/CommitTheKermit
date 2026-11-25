@@ -42,13 +42,18 @@ strong { font-weight: 700; }
 .item-meta { text-align: center; }
 .item-meta p, .item-meta time { display: block; margin: 0; font-size: .9rem; line-height: 1.6; }
 .item-meta a { display: block; overflow-wrap: anywhere; font-size: .8rem; line-height: 1.55; }
-.item-body { min-width: 0; font-size: 1rem; }
+.item-body { min-width: 0; font-size: 1rem; word-break: keep-all; }
 .item-body .summary { margin-bottom: 4px; font-size: .9rem; }
 .item-body ul { margin: 0; padding: 0; list-style: none; }
 .item-body li { position: relative; margin: 4px 0; padding-left: 12px; }
 .item-body li::before { position: absolute; left: 0; content: "·"; }
 .item-body .stack { margin-top: 5px; font-size: .9rem; }
 .compact { align-items: start; }
+.about .lead { margin: 0; align-self: center; word-break: keep-all; font-size: 1.6rem; font-weight: 700; line-height: 1.4; }
+.item-body li > strong:first-child { color: #2563c9; }
+.item-body .sub { margin: 2px 0 0; }
+.item-body .sub li { margin: 2px 0; font-size: .9rem; }
+.item-body .sub li::before { content: "-"; }
 
 footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid #ddd; color: #777; font-size: .75rem; text-align: center; }
 
@@ -62,6 +67,7 @@ footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid #ddd; color:
   h2 { font-size: 1.6rem; }
   .about, .item { grid-template-columns: 1fr; gap: 16px; }
   .about img { margin: 0; }
+  .about .lead { font-size: 1.35rem; }
   .item { padding-bottom: 24px; border-bottom: 1px solid #eee; }
   .item:last-child { border-bottom: 0; }
   .item-meta { text-align: left; }
